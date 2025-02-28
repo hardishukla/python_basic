@@ -1,0 +1,5 @@
+noob =input("enter the sentence")
+pro= input("enter the chatacter to be replaced")
+hack = input("enter the new character")
+replace = noob.replace(pro, hack)
+print(replace)
