@@ -1,6 +1,0 @@
-#write a python program to convert a tuple into a list and vice versa.
-name = input("Enter the name: ") 
-a= tuple(name.split())
-b = list(a)
-print(a)
-print(b)
